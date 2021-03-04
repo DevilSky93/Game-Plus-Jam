@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 3a8bdd6b171cc524cb986f4aaea906f7
+  - enabled: 1
+    path: Assets/Scenes/Shower Scene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/Work Scene.unity
+    guid: a6a7802ddeb7e824e900040b04907ea0
+  - enabled: 1
+    path: Assets/Scenes/Breakfast Scene.unity
+    guid: 7f3e440e67d670143916e86ab5edf762
+  - enabled: 1
+    path: Assets/Scenes/Final Scene.unity
+    guid: edeec6564a208d3408c41ee38ece56be
+  - enabled: 1
+    path: Assets/Scenes/End Scene.unity
+    guid: f0c259b73ebed1d4e9aefe010650789b
+  m_configObjects: {}
